@@ -1,2 +1,5 @@
 # Emacs backup
 *~
+
+# Python virtual environment
+.venv/
